@@ -1,0 +1,4 @@
+<app-header></app-header>
+<h1 style="color: greenyellow;">Header and Footer</h1>
+        <p>This the header and footer adding styles with one to one</p>
+<app-footer></app-footer>
