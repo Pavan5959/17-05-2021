@@ -2,3 +2,9 @@
 <h1 style="color: greenyellow;">Header and Footer</h1>
         <p>This the header and footer adding styles with one to one</p>
 <app-footer></app-footer>
+
+<!--Header.html-->
+<p>Welcome App</p>
+
+<!--footer.html>
+<p>Here Are The COPYRIGHTS</p>
