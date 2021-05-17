@@ -1,0 +1,18 @@
+<h1>For Loop</h1>
+<h4 *ngFor="let item of data">{{item}}</h4>
+<br><br>
+<h1>Array With Object</h1>
+<h4 *ngFor="let name of data1">
+    {{name.name}}
+    {{name.age}}
+</h4>
+<h1>Using Table</h1>
+<tr>
+    <th>name</th>
+    <th>age</th>
+    <th>email</th>
+</tr><br>
+<tr *ngFor="let name of data1">
+    <td>{{name.name}}</td>
+    <td>{{name.age}}</td>
+</tr>
